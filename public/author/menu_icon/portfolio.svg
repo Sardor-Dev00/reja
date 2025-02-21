@@ -1,0 +1,18 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6646">
+			<rect id="Icons/Portfolio" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 12" cx="20.000000" cy="20.000000" r="20.000000" fill="#F0F0F6" fill-opacity="1.000000"/>
+	<rect id="Icons/Portfolio" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Portfolio" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Portfolio" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons/Portfolio" width="18.000000" height="18.000000" transform="translate(11.000000 11.000000)" fill="#727272" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6646)">
+		<path id="Vector" d="M17.75 20.75L17.75 23L22.25 23L22.25 20.75L27.5 20.75L27.5 26C27.5 26.1987 27.4209 26.3896 27.2803 26.5303C27.1396 26.6709 26.949 26.75 26.75 26.75L13.25 26.75C13.051 26.75 12.8604 26.6709 12.7197 26.5303C12.5791 26.3896 12.5 26.1987 12.5 26L12.5 20.75L17.75 20.75ZM19.25 19.25L20.75 19.25L20.75 21.5L19.25 21.5L19.25 19.25ZM16.25 14.75L16.25 12.5C16.25 12.3013 16.3291 12.1104 16.4697 11.9697C16.6104 11.8291 16.801 11.75 17 11.75L23 11.75C23.199 11.75 23.3896 11.8291 23.5303 11.9697C23.6709 12.1104 23.75 12.3013 23.75 12.5L23.75 14.75L26.75 14.75C26.949 14.75 27.1396 14.8291 27.2803 14.9697C27.4209 15.1104 27.5 15.3013 27.5 15.5L27.5 19.25L22.25 19.25L22.25 17.75L17.75 17.75L17.75 19.25L12.5 19.25L12.5 15.5C12.5 15.3013 12.5791 15.1104 12.7197 14.9697C12.8604 14.8291 13.051 14.75 13.25 14.75L16.25 14.75ZM17.75 13.25L17.75 14.75L22.25 14.75L22.25 13.25L17.75 13.25Z" fill="#767676" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

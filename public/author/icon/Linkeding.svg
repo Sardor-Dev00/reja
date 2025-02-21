@@ -1,0 +1,17 @@
+<svg width="24.986328" height="21.608398" viewBox="0 0 24.9863 21.6084" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_6926">
+			<rect id="Icons-linkedin" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<ellipse id="Ellipse 18" cx="12.493164" cy="10.804199" rx="12.493151" ry="10.804261" fill="#FFB400" fill-opacity="1.000000"/>
+	<rect id="Icons-linkedin" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-linkedin" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<rect id="Icons-linkedin" width="14.575342" height="12.604972" transform="translate(5.205566 4.502441)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_6926)">
+		<path id="Vector" d="M9.42041 7.12842C9.42041 7.40723 9.29199 7.67432 9.06445 7.87109C8.83643 8.06787 8.52734 8.17871 8.20508 8.17822C7.8833 8.17822 7.57422 8.06738 7.34668 7.87061C7.11865 7.67334 6.99121 7.40625 6.99121 7.12744C6.99121 6.84912 7.11963 6.58203 7.34717 6.38477C7.5752 6.18799 7.88428 6.07764 8.20654 6.07764C8.52881 6.07764 8.8374 6.18848 9.06494 6.38574C9.29297 6.58252 9.42041 6.8501 9.42041 7.12842ZM9.45703 8.95605L7.02783 8.95605L7.02783 15.5317L9.45703 15.5317L9.45703 8.95605ZM13.2949 8.95605L10.8779 8.95605L10.8779 15.5317L13.271 15.5317L13.271 12.0811C13.271 10.1592 16.1675 9.98047 16.1675 12.0811L16.1675 15.5317L18.5664 15.5317L18.5664 11.3672C18.5664 8.12646 14.2788 8.24707 13.271 9.83887L13.2949 8.95605Z" fill="#2B2B2B" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
