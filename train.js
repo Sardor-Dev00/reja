@@ -101,3 +101,19 @@ console.log("passed here 2");
 //   console.log(javob);
 // }
 // run();
+
+// A-TASK:
+
+// function countLetter(letter, word) {
+//   let count = 0; 
+//   for(let i = 0; i < word.length; i++) {
+//     if (word[i] === letter) {
+//       count ++;
+//     }
+//   }
+//   return count;
+// }
+
+// const result = countLetter("e", "engineer");
+// console.log("result:", result);
+
