@@ -103,7 +103,6 @@ console.log("passed here 2");
 // run();
 
 // A-TASK:
-
 // function countLetter(letter, word) {
 //   let count = 0; 
 //   for(let i = 0; i < word.length; i++) {
@@ -117,3 +116,13 @@ console.log("passed here 2");
 // const result = countLetter("e", "engineer");
 // console.log("result:", result);
 
+// B-TASK
+// function countDigits(str) {
+//   let count = 0;
+//   for (let  i of str) {
+//       if (i >= '0' && i <= '9')
+//        count++;
+//   }
+//   return count;
+// }
+// console.log(countDigits("ad2a54y79wet0sfgb9")); // 7
