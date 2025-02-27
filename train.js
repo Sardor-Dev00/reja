@@ -127,3 +127,12 @@ console.log("passed here 2");
 // }
 // console.log(countDigits("ad2a54y79wet0sfgb9")); // 7
 
+//  C-TASK
+// function checkContent(a, b) {
+//   x = a.toLowerCase().split('').sort().join('');
+//   y = b.toLowerCase().split('').sort().join('');
+//   return x === y;
+// }
+
+// console.log(checkContent("MitGroup", "mixgroup")) // false
+// console.log(checkContent("Sardor", "Rasdor")) // true
